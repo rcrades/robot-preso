@@ -53,19 +53,17 @@ company
 ** Thank audience and close session
   
 # Learning Objectives
-## Learning Objective 1
-### Understand the concept of Generative AI and its relevance to leaders in the construction industry.
+### Learning Objective 1
+- Understand the concept of Generative AI and its relevance to leaders in the construction industry.
 
-## Learning Objective 2
-Learn how AI can improve office productivity through
-automation and data analytics.
+### Learning Objective 2
+- Learn how AI can improve office productivity through automation and data analytics.
 
-## Learning Objective 3
-Discover how AI can enhance field productivity, focusing on safety, precision, and efficiency.
+### Learning Objective 3
+- Discover how AI can enhance field productivity, focusing on safety, precision, and efficiency.
 
 # Level of presentation
 ## Intermediate
 
 # Who Should Attend
-Anyone attending a CFMA conference - CPAs, controllers, and
-CFOs alike
+Anyone attending a CFMA conference - CPAs, controllers, and CFOs alike
